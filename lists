@@ -1,0 +1,21 @@
+#list_program
+a=[1,2,3,4,5,6,7,8,9,10] #intialization
+print (a)
+b=[1,'a',"sri",0.325] #multiplevalues_intialization
+print (b)
+print (a[2]) #indexvalue print
+a.append(11) #addingvalue through append key
+print (a)
+a[10]=0 #reassign the value through index
+print(a)
+del (a[10]) #delete the value
+print (a)
+len (a) #lenght 
+print (a+b) #concate the two varibale values
+print (a*2) #multiple times print the value samw
+#slicing Operations performed using index
+print(a)
+len(a)
+print(a[1:4]) #print the values from index value 1 to 3
+print(a[2:]) #print the values from index 2 to last
+print(a[:4]) #print the vales upto 3
