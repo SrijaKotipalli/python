@@ -2,7 +2,7 @@
 """
 Created on Wed May 25 23:09:58 2022
 
-@author: Srija Anitha
+@author: Srija 
 """
 
 #looping structres
