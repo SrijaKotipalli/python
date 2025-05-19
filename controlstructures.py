@@ -2,7 +2,7 @@
 """
 Created on Wed May 25 19:47:25 2022
 
-@author: Srija Anitha
+@author: Srija 
 """
 #Decision Control Structures program explanation
 #simple if program
